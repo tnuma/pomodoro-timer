@@ -9,7 +9,7 @@ const stats = document.getElementById("action");
 const progress = document.getElementById("progress");
 
 let passSeconds = 60; //60
-let remainMinutes = 0;
+let remainMinutes = 24;
 let timeoutId;
 let numCompleted = 0;
 let condition;
