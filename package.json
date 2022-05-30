@@ -1,0 +1,10 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Toshihiro <tnuma210@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
